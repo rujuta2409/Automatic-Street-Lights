@@ -1,4 +1,3 @@
 # Automatic-Street-Lights
-This project is related to automatic street lights 
-It is made using c language.
-It uses the intensity of light to recognize it as day or night in order to switch the lights on or off
+Automatic street lights using C programming offer significant advantages in energy efficiency and public safety.By automating the process, energy consumption is reduced, lowering electricity bills and carbon footprint. C programming enables precise control over sensors and timing, ensuring reliable operation. Additionally, automatic systems reduce human error and maintenance costs associated with manual switching. They improve visibility during low-light conditions, enhancing road safety. The simplicity and speed of C programming make it ideal for developing embedded systems like microcontroller-based street lighting solutions.
+
